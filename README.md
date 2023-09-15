@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=F7F4F4&width=550&lines=Welcome+to+my+Github+%F0%9F%91%8B;Below+you+can+learn+a+little+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=0085FF&width=550&lines=Welcome+to+my+Github+%F0%9F%91%8B;Below+you+can+learn+a+little+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg)
 <br />
 
 My name is Gal and I am studying Engineering Science at the university of Toronto and will graduate in 2025 with a specialty in robotics and a minor in business and AI. 
