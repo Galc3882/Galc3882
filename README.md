@@ -31,5 +31,5 @@ For as long as I can remember I’ve been fascinated with technology and I inten
 ### I am always excited to meet and get to know new people, you could reach out to me through
 
 
-<a href="[https://linkedin.com/in/galc3882/]" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://linkedin.com/in/galc3882/" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:galc3882@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
