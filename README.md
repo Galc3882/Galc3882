@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5100&color=0085FF&width=550&lines=Welcome+to+my+Github+%F0%9F%91%8B;Below+you+can+learn+a+little+more+about+me+%F0%9F%91%87)](https://git.io/typing-svg)
 <br />
 
-My name is Gal and I am studying Engineering Science at the university of Toronto and will graduate in 2025 with a specialty in robotics and a minor in business and AI. 
-
-For as long as I can remember I’ve been fascinated with technology and I intend to continuously learn about new technological developments.
+I’m Gal, an Engineering Science student at the University of Toronto specializing in Robotics with a minor in Business & AI. I’ve built LLM-powered developer tools at Intuit used by 16,000+ engineers and led a 9-member 2D Vision team at aUToronto, developing lane, traffic light, and sign detection while optimizing deep learning models for real-time deployment. Passionate about AI, computer vision, and scalable systems, I thrive at the intersection of research and production engineering.
 
 <br />
 
